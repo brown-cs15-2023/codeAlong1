@@ -1,4 +1,4 @@
-package workshop1stencil;
+package codeAlong1;
 
 public class Main {
 
